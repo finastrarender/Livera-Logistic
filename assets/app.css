@@ -7,3 +7,4 @@
 .hero-h{font-size:clamp(24px,3.6vw,52px)}.big-h{font-size:clamp(24px,3vw,44px)}.phero h1{font-size:clamp(24px,3vw,46px)}
 .hero-h,.big-h,.phero h1{font-size:clamp(22px,2.4vw,36px)}
 .hero-h,.big-h,.phero h1{text-transform:none}
+.ccard{padding:clamp(24px,3vw,36px)}.ccard h2{font-size:clamp(22px,2vw,28px);margin-top:12px}.ccard p{font-size:14px;line-height:1.6;margin:12px 0 0}.ccard h4{margin-top:22px;padding-top:14px;border-top:1px solid var(--dline)}.ccard h4:before{display:none}
