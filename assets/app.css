@@ -10,3 +10,4 @@
 .hero-h{font-size:clamp(36px,4.4vw,60px)}.hero-sub{font-size:clamp(17px,1.6vw,21px);line-height:1.45}
 .ch.full .cap,.ch.full .cap.on{top:50%;bottom:auto;transform:translateY(-50%);padding:0 24px}.ch.full .cap .row{justify-content:center;text-align:center}.ch.full .cap .row>div{display:flex;flex-direction:column;align-items:center;width:100%}.ch.full .hero-h{max-width:18ch;text-align:center}.ch.full .hero-sub{max-width:52ch;margin-left:auto;margin-right:auto;text-align:center;white-space:normal}.ch.full .ctas{justify-content:center}.ch.full .cap .card{margin:0 auto;text-align:center}.ch.full .cap .card .ctas{justify-content:center}
 .ccard{padding:clamp(24px,3vw,36px)}.ccard h2{font-size:clamp(22px,2vw,28px);margin-top:12px}.ccard p{font-size:14px;line-height:1.6;margin:12px 0 0}.ccard h4{margin-top:22px;padding-top:14px;border-top:1px solid var(--dline)}.ccard h4:before{display:none}
+footer{border-radius:30px 30px 0 0}
